@@ -20,7 +20,7 @@
 
 ## Live Demo
 
-[Live Demo](https://debas-31.github.io/to-do-list/dist/)
+[Live Demo](https://debas-31.github.io/review-to-do-list/dist/)
 
 ## Getting Started
 
