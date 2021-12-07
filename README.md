@@ -37,7 +37,7 @@ To get a local copy up and running follow these simple example steps.
 - git clone the project
 
 ```bash 
-git clone git@github.com:Debas-31/to-do-list
+git clone git@github.com:Debas-31/review-to-do-list
 ```
 
 - Install Dependencies
